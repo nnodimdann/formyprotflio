@@ -1,4 +1,3 @@
-Replace your whole app.py with this:
 
 import os
 import matplotlib
